@@ -1,4 +1,4 @@
-![](img/cmpy_18x.png?raw=true)
+![](https://user-images.githubusercontent.com/15147319/143787890-8911719a-1e9e-4c10-aa35-db1ca2c54612.png)
 
 *An avian-themed unary group.*  
 [Website](https://cmpy.cc/)
