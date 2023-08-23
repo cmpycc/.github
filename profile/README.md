@@ -5,6 +5,6 @@
 
 ---
 
-cmpy consists of myself, Alex. I plan on releasing any major projects of my creation under this name. I have also decided to open-source a lot of the utility code I have written over the years under this group as well.
+cmpy consists of myself, Alex. I plan on releasing any major game-related projects of my creation under this name. I have also decided to open-source a lot of the utility code I have written over the years under this group as well.
 
 [My personal GitHub](https://github.com/digitaljokerman)
